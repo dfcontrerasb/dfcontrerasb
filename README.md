@@ -1,16 +1,27 @@
-## Hi there 👋
+👋 ¡Bienvenido a mi perfil de GitHub!
 
-<!--
-**dfcontrerasb/dfcontrerasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Acerca de Mí
 
-Here are some ideas to get you started:
+Soy David Fernando Contreras Bautista, Administrador de Bases de Datos (DBA) en SPS, especializado en Oracle, SQL Server y PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 Mi Rol en SPS
+
+Administración, monitoreo, optimización y migración de bases de datos, garantizando su rendimiento, seguridad y alta disponibilidad.
+
+🛠️ Habilidades y Expertise
+
+🗄️ Bases de datos: Oracle, SQL Server, PostgreSQL y MySQL.
+
+☁️ Cloud: AWS, RDS, EC2 y DMS.
+
+⚙️ Tecnologías: Oracle RAC, Data Guard, RMAN, ASM y CDC.
+
+🚀 Especialidades: Performance Tuning, Backup & Recovery y migraciones.
+
+🤝 Cómo Colaboro
+
+Trabajo en equipo, compartiendo conocimientos y aplicando buenas prácticas para desarrollar soluciones eficientes y confiables.
+
+📫 Contacto
+
+📧 Correo: dfcontrerasb@spsolutions.com.mx
